@@ -1,7 +1,7 @@
 # **Siyuan Song**
-**Mechanical Engineering • FEA • Multiphysics • Thin-Film Stress • Reliability Engineering**  
-Email: siyuan_song@brown.edu  
-Phone: (+1) 401-626-8183  
+**Solid Mechanics • FEA • Multiphysics • Battery • AI for Science**  
+Email: siyuan_song@brown.edu
+Phone: (+1) 401-626-8183
 Open to relocate
 
 ---
