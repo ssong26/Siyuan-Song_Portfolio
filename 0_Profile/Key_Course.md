@@ -17,8 +17,6 @@
 ## **Mathematical Theory**
 - Mathematical Methods in Engineering and Physics I  
 - Mathematical Methods in Engineering and Physics II  
-- Quantum Mechanics  
-- Statistical Mechanics  
 
 ## **Numerical Methods / Applied Math**
 - Numerical Solution of PDEs I  
@@ -31,18 +29,16 @@
 - Artificial Intelligence  
 - Data Science  
 - Deep Learning  
-- Special Projects  
-- Thesis Preparation  
 
 ## **Basic Sciences**
 - Solid State Physics I  
-- Quantum Mechanics (listed above)  
-- Statistical Mechanics (listed above)  
+- Quantum Mechanics
+- Statistical Mechanics
 - Soft Matter (physics/chemomechanics component)  
 
 ## **Other**
-- Research Projects (ENGN 2980)  
-- Thesis Preparation (ENGN 2990)  
+- Research Projects
+- Thesis Preparation
 
 ---
 
@@ -71,12 +67,6 @@
 - — (No standalone physics/chemistry courses at master level)
 
 ## **Other**
-- Academic English Communication  
-- English Writing  
-- Academic Activities (Lectures)  
-- Social Practice  
-- Mid-term Assessment  
-- Theory of Socialism with Chinese Characteristics  
 - Introduction to Dialectics of Nature  
 
 ---
@@ -117,35 +107,25 @@
 - System Engineering  
 - Computer Programming  
 - Introduction to Engineering Economics  
-- Research Practice I / II  
-- Professional Practice I / II  
-- Probability Theory of Life *(factual translation)*  
 
 ## **Basic Sciences**
-- College Physics (A1)  
-- College Physics (A1-2)  
+- College Physics
 - Advanced Physics Laboratory  
 - Optical Measurement Technology  
-- Optical Measurement  
 - Mechanical Properties of Materials  
 - College Chemistry Laboratory  
 - College Chemistry IV  
 
 ## **Other**
-- Ethics and Life  
 - Art Appreciation (Music)  
 - Outline of Traditional Chinese Culture  
 - Theory and Methods of Sociology  
-- Academic Writing (English)  
 - Selected Readings of Chinese and Foreign Literature  
-- University English I / II  
 - Sociology Theory and Methods  
 
 ---
 
 # ✅ **Notes**
-- No course names were invented.  
-- All content comes directly from your official transcripts.  
-- All translations are faithful and literal, following standard engineering English conventions.  
-- This file is **safe for GitHub / CV / personal website**, as it contains no grades and no personal identifiers.
+- Summarize via Chatgpt.
+- Date: 2025-May-10
 
