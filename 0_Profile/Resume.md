@@ -1,6 +1,6 @@
-Siyuan Song — Resume (Markdown Version)
+Siyuan Song — Resume
 
-Open to Relocate (Singapore preferred)
+Open to Relocate
 Phone: (+1) 401-626-8183
 Email: siyuan_song@brown.edu
 
